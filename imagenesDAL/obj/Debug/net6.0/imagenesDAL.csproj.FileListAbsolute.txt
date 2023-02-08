@@ -1,0 +1,14 @@
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\bin\Debug\net6.0\imagenesDAL.deps.json
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\bin\Debug\net6.0\imagenesDAL.runtimeconfig.json
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\bin\Debug\net6.0\imagenesDAL.dll
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\bin\Debug\net6.0\imagenesDAL.pdb
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\obj\Debug\net6.0\imagenesDAL.csproj.AssemblyReference.cache
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\obj\Debug\net6.0\imagenesDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\obj\Debug\net6.0\imagenesDAL.AssemblyInfoInputs.cache
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\obj\Debug\net6.0\imagenesDAL.AssemblyInfo.cs
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\obj\Debug\net6.0\imagenesDAL.csproj.CoreCompileInputs.cache
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\obj\Debug\net6.0\imagenesDAL.dll
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\obj\Debug\net6.0\refint\imagenesDAL.dll
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\obj\Debug\net6.0\imagenesDAL.pdb
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\obj\Debug\net6.0\imagenesDAL.genruntimeconfig.cache
+C:\Users\menaj\source\repos\SubirImagenesAbbdd\imagenesDAL\obj\Debug\net6.0\ref\imagenesDAL.dll
